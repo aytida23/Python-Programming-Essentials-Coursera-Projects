@@ -84,6 +84,3 @@ def age_in_days(year, month, day):
             return 0
     else:
         return 0
-    
-
-
